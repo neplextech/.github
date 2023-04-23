@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/46562212/209439584-0d8bc3cf-ee92-4440-8867-195a6b47f79e.jpg" alt="NeplexBanner" align="center">
-
+<img src="https://user-images.githubusercontent.com/46562212/233827654-9f2f55a1-b858-406c-b249-7d2c2ef9e4e6.jpg" alt="NeplexBanner" align="center">
 
 <h1 align="center">Neplex Technologies</h1>
 
