@@ -6,5 +6,5 @@
 
 <div align="center">
   <h1>Socials</h1>
-  <a href="https://discord.gg/xxXJkUb9FM">Discord</a> | <a href="mailto:neplextech@gmail.com">Email</a>
+  <a href="https://discord.gg/xxXJkUb9FM">Discord</a> | <a href="mailto:info@neplextech.com">Email</a>
 </div>
